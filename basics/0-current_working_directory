@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "/Users/manuel/projects/holbertonschool-shell/basics"
+pwd
