@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R u+rwx=go-w permissions
+chmod -R a+x permissions
