@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R a+x permissions
+chmod -R a+x ../
