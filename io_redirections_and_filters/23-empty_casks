@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty | ls -1t
+find . -empty -f | ls -a1t
